@@ -2,7 +2,7 @@
 
 ## 1. Pré-Requisitos
 
-- **PowerShell:** Certifique-se de ter o [PowerShell](https://github.com/PowerShell/PowerShell) instalado, de preferência a versão mais recente.
+- **PowerShell:** Por padrão o Powershell 5.x está instalado no Windows 10 e 11. Execute apenas nessa versão do Powershell, pois o mesmo não é compativel com o Powershell 7.x.
 - **Privilégios de Administrador:** Execute o PowerShell com permissões elevadas para evitar problemas durante a instalação.
 - **Conexão com a Internet:** Necessária para baixar os módulos da PowerShell Gallery.
 
